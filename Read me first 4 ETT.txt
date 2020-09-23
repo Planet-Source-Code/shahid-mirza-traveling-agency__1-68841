@@ -1,0 +1,22 @@
+
+System Screen Resolution must be 1024X768. For better Display and Performance.
+Copy following OCX file to System32 folder. 
+
+LVbuttons.ocx  &  ctrlNSDataCombo.ocx
+
+OR feel free mail for OCX Files 
+
+
+1: make ODBC with Name "Travel Agency"
+2: Run Project 
+3: Default Password is "admin" with Admin USer Name
+
+enjoy and vote me ...............
+waiting ur responce............. Thanks 
+
+Can Contact me if u want any further assistance 4 any other Projects 
+i will glad to ans ur queries 
+Thanks Once again 
+
+M Shahid Mughal 
+methoomirza@hotmail.com	
